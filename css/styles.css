@@ -4093,7 +4093,7 @@ img.u-pull-left {
     height           : 6rem;
     width            : 6rem;
     border-radius    : 50%;
-    background-color : var(--color-text-dark);
+    background-color : #f5c241;
     transition       : all .3s;
     position         : relative;
 }
@@ -4104,7 +4104,7 @@ img.u-pull-left {
 }
 
 .ss-go-top svg path {
-    fill : white;
+    fill : black;
 }
 
 .ss-go-top.link-is-visible {
