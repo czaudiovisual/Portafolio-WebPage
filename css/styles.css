@@ -3260,7 +3260,7 @@ img.u-pull-left {
  * ## intro bg
  * -------------------------------------------------------------------- */
 .s-intro__bg {
-    aspect-ratio        : 1/1;
+    aspect-ratio        : 1/1.2;
     width               : 100%;
     background-color    : var(--color-gray-4);
     background-image    : url(../images/intro-bg.png);
